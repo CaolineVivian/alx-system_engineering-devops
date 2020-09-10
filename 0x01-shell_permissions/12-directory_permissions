@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 715 dir_holberton
+mkdir -m 715 /tmp/h/dir_holberton
